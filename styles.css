@@ -1,0 +1,26 @@
+html {
+    background-color: beige;
+}
+
+.main {
+    font-family: 'Lora', serif;
+    font-size: large;
+}
+
+h1 {
+    padding-left: 33%;
+    padding-right: 33%;
+}
+
+.image {
+    width: 1000px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.transport {
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    padding: 10px;
+}
